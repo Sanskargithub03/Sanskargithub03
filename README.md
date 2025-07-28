@@ -2,8 +2,8 @@
 
 🎓 3rd Year ECE Student at IIIT Nagpur  
 💻 Passionate about Verilog, Embedded Systems & VLSI  
-🚀 Exploring Git, Open Source, and Hackathons  
-🛠️ Tech Stack: Verilog · C/C++ · Python · Git · Arduino · ESP32  
+🚀 Exploring Git and Hackathons  
+🛠️ Tech Stack: Verilog · C/C++ · Git · Arduino · ESP32  
 📫 Reach me at: sanskar355yede@gmail.com | [LinkedIn](www.linkedin.com/in/sanskar-yede-b61798294)
 
 ---
